@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C08989B-5BB9-4ED6-ABE4-BC933C202FB7}</ProjectGuid>
+    <ProjectGuid>{B0A7F34C-E76C-4425-B99F-1E631BB38E99}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>JTestConsole</RootNamespace>
     <AssemblyName>JTestConsole</AssemblyName>
